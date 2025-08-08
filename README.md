@@ -72,5 +72,3 @@ The **SVC** and **Logistic Regression** models showed the best generalization pe
 - Generated precision, recall, and F1-score for both classes.
 
 
-   ```bash
-   git clone https://github.com/your-username/rainfall-prediction-ml.git
